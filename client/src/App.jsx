@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2>Certificate System</h2>
+      <h2>DECENTRALIZED CERTIFICATE ISSUANCE AND VERIFICATION SYSTEM</h2>
       <div className="card">
         <h3>Issue Certificate</h3>
         <input placeholder="Certificate ID" onChange={(e) => setCertId(e.target.value)} />
